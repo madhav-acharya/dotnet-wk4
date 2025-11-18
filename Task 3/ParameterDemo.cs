@@ -1,4 +1,4 @@
-namespace task_3;
+namespace Task_3;
 
 public class ParameterDemo
 {

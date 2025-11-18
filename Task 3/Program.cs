@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-namespace task_3;
+namespace Task_3;
 
 class Program
 {
