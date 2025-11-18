@@ -18,7 +18,7 @@ class Program
         int product1 = calc.Multiply(5, 3);
         Console.WriteLine($"Product (5*3): {product1}");
 
-        // Call Multiply with only one parameter (num2 defaults to 1)
+        // Call Multiply with only one parameter
         int product2 = calc.Multiply(7);
         Console.WriteLine($"Product (7*1 default): {product2}");
     }
